@@ -6,6 +6,9 @@
   ![](https://github.com/qvppy/qvppy/blob/a819c723f8818cbe2f5653295f50385dd7fa8c68/Untitled157_20260623204459.png)
   <div align="center">
 
+ㅤ[ata](https://vinylscratch.atabook.org/)ㅤㅤ‿ㅤㅤ[straw](https://vinylscratcch.straw.page)ㅤㅤ‿ㅤㅤ[prns.cc](https://pronouns.cc/@ame1101)
+  
+
   ![](https://github.com/qvppy/qvppy/blob/a819c723f8818cbe2f5653295f50385dd7fa8c68/Untitled159_20260623205007.png)
 
 
