@@ -1,3 +1,38 @@
+<div align="center">
+  
+  ![](https://github.com/qvppy/qvppy/blob/a819c723f8818cbe2f5653295f50385dd7fa8c68/Untitled159_20260623205028.png)
+  </div>
+ 
+  ![](https://github.com/qvppy/qvppy/blob/a819c723f8818cbe2f5653295f50385dd7fa8c68/Untitled157_20260623204459.png)
+  <div align="center">
+
+  ![](https://github.com/qvppy/qvppy/blob/a819c723f8818cbe2f5653295f50385dd7fa8c68/Untitled159_20260623205007.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ejk252ifvb4dxyqkwusrz52u6y&cover_image=true&theme=novatorem&show_offline=false&background_color=1d2359&interchange=false&profanity=false&hide_remaster=false&bar_color=4487c9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
