@@ -1,4 +1,4 @@
-## Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ejk252ifvb4dxyqkwusrz52u6y&cover_image=true&theme=novatorem&show_offline=false&background_color=1d2359&interchange=false&profanity=false&hide_remaster=false&bar_color=4487c9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **qvppy/qvppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
